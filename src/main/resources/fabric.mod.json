@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "spawnersplus",
+	"version": "${version}",
+	"name": "SpawnersPlus",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"MaxJNSN"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/spawnersplus/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.maxjnsn.spawnersplus.SpawnersPlus"
+		],
+		"fabric-datagen": [
+			"com.maxjnsn.spawnersplus.SpawnersPlusDataGenerator"
+		],
+		"client": [
+			"com.maxjnsn.spawnersplus.SpawnersPlusClient"
+		]
+	},
+	"mixins": [
+		"spawnersplus.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.9",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
