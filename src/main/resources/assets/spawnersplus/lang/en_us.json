@@ -1,0 +1,12 @@
+{
+  "block.spawnersplus.inactive_spawner": "Inactive Spawner",
+  "block.spawnersplus.weeping_soul_sand": "Weeping Soul Sand",
+  "block.spawnersplus.soul_altar": "Soul Altar",
+
+  "item.spawnersplus.spawner_fragment": "Spawner Fragment",
+    "item.spawnersplus.soul_bottle": "Soul Bottle",
+
+  "enchantment.spawnersplus.lightning_striker": "Lightning Striker",
+
+  "itemgroup.spawnersplus": "Spawners+"
+}

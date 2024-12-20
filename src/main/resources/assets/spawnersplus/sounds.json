@@ -1,0 +1,9 @@
+{
+  "weeping_soul_sand": {
+    "subtitle": "sounds.spawnersplus.weeping_soul_sand",
+    "sounds": [
+        "spawnersplus:weeping_soul_sand1",
+        "spawnersplus:weeping_soul_sand2"
+    ]
+  }
+}

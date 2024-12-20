@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CWC",
+    "GLG",
+    "STS"
+  ],
+  "key": {
+    "C": {
+      "tag": "minecraft:candles"
+    },
+    "W": {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    "G": {
+      "item": "minecraft:gold_block"
+    },
+    "L": {
+      "tag": "minecraft:logs"
+    },
+    "S": {
+      "tag": "minecraft:wooden_slabs"
+    },
+    "T": {
+      "item": "spawnersplus:weeping_soul_sand"
+    }
+  },
+  "result": {
+    "id": "spawnersplus:soul_altar",
+    "count": 1
+  }
+}
